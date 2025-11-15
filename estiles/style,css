@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(23, 105, 105);
+    background-color: rgb(115, 136, 136);
 }
 
 main{
